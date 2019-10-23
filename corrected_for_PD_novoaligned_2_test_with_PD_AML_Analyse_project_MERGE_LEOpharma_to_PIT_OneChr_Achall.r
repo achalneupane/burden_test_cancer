@@ -1,5 +1,5 @@
 
-###############################################  mixed aligens with AOGC
+###############################################  mixed aligners with AOGC (biases due to aligner batch effect)##################
 #/media/TRI-T-DRIVE-taneupan/uqdi/UQCCG/Sequencing/Data/Sequence_Genotypes/2015/2015-03-16_AllAMLandLung/Analysis
 ## /media/TRI-T-DRIVE-taneupan/uqdi/UQCCG/Sequencing/Data/Sequence_Genotypes/2015/2015-03-16_AllAMLandLung/Analysis/2015-03-16_AllAMLandLung.BEST.chrALL.ACC_SUBSET.ALL.ALL_GENOTYPES_analysis.txt
 ## /media/TRI-T-DRIVE-taneupan/uqdi/UQCCG/Sequencing/Data/Sequence_Genotypes/2015/2015-08-14_AML_mixedAligners/Analysis/2015-08-14_AML_mixedAlignersHC.2.BEST.chrALL.ACC_SUBSET2.ALL.ALL_GENOTYPES_analysis-maf-filtered.txt
